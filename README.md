@@ -85,5 +85,5 @@ We are a competitor to SpaceX called SpaceY and we are interested in making a mo
 - Each model has an accuracy of about 83% for the testing dataframe.
 - The decision tree model has the highest accuracy for the training dataframe at almost 89%.
 
- ## Improvements
- Each model was trained on all of the available features, so the likelihood of some features adding noise is high. By reducing the scope of features used, we should be able to attain even higher accuracies for the models. 
+## Improvements
+Each model was trained on a lot of different features, so the likelihood of some features adding noise is high. By reducing the scope of features used, we should be able to attain even higher accuracies for the models. 
