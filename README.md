@@ -5,7 +5,7 @@ Developing a classification model for predicting whether or not SpaceX will succ
 - Detailed overview of the project process: [Project Report](https://github.com/LucasHoffSchmidt/IBM_Data_Science_Capstone_Project_SpaceX/blob/main/Data_Science-SpaceX-Report.pdf)
 - Jupyter Notebooks of the development process of the classification model: [Jupyter Notebooks](https://github.com/LucasHoffSchmidt/IBM_Data_Science_Capstone_Project_SpaceX/tree/main/Jupyter_Notebooks)
 - Plotly Dash screenshots of launch results across launch sites and payload ranges: [Plotly Dash Screenshots](https://github.com/LucasHoffSchmidt/IBM_Data_Science_Capstone_Project_SpaceX/tree/main/Plotly_Dash_Screenshots)
-- Other data science projects: [Data Science Projects](https://lucashoffschmidt.github.io/)
+- Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Project Summary
 ### Problem
