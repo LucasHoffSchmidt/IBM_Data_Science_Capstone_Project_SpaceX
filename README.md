@@ -7,18 +7,17 @@ Developing a classification model for predicting whether or not SpaceX will succ
 - Plotly Dash screenshots of launch results across launch sites and payload ranges: [Plotly Dash Screenshots](https://github.com/LucasHoffSchmidt/IBM_Data_Science_Capstone_Project_SpaceX/tree/main/Plotly_Dash_Screenshots)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
-## Project Summary
-### Problem
+## Problem
 We are a competitor to SpaceX called SpaceY and we are interested in making a model that can predict whether SpaceX will successfully land stage 1 of a rocket for a given launch, to help us determine whether we will be able to compete against it. 
 
-### Tools and Libraries Used
+## Technologies Used
 **Tools**
-- Jupyterlab, Github, Plotly Dash, Microsoft Powerpoint Online. 
+- Jupyterlab, Plotly Dash, Microsoft PowerPoint Online. 
 
 **Libraries**
-- Requests, pandas, matplotlib, seaborn, folium, numpy, datetime, BeautifulSoup, re, unicodedata, piplite, js, io, csv, sqlite3, prettytable, math, sklearn.  
+- `Requests`, `pandas`, `matplotlib`, `seaborn`, `folium`, `numpy`, `datetime`, `beautifulsoup4`, `re`, `unicodedata`, `piplite`, `js`, `io`, `csv`, `sqlite3`, `prettytable`, `math` and `scikit-learn`.  
 
-### Process
+## Process
 **Data Collection with API**
 - We use a static json url to get core information about rocket launches. 
 - We convert this data into a dataframe called data and reduce it to just the columns that we need, including restricting the dates of the launches to before the 13th of November 2020.
