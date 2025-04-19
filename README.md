@@ -11,11 +11,24 @@ Developing a classification model for predicting whether or not SpaceX will succ
 We are a competitor to SpaceX called SpaceY and we are interested in making a model that can predict whether SpaceX will successfully land stage 1 of a rocket for a given launch, to help us determine whether we will be able to compete against it. 
 
 ## Technologies Used
-**Tools**
-- Jupyterlab, Plotly Dash, Microsoft PowerPoint Online. 
+**Tools and Platforms**
+- Development: Jupyterlab
+- Visualization: Plotly Dash, Microsoft PowerPoint Online.
 
 **Libraries**
-- `Requests`, `pandas`, `matplotlib`, `seaborn`, `folium`, `numpy`, `datetime`, `beautifulsoup4`, `re`, `unicodedata`, `piplite`, `js`, `io`, `csv`, `sqlite3`, `prettytable`, `math` and `scikit-learn`.  
+- Web Scraping: `beautifulsoup4` 
+- Data Analysis: `pandas`, `numpy`
+- Visualization:  `matplotlib`, `seaborn`, `folium`
+- Machine Learning: `scikit-learn`
+- Database: `sqlite3`
+- Text Processing: `re`
+- Formatting: `prettytable`
+- Text Normalization: `unicodedata`
+- Date and Time Handling: `datetime`
+- Mathematical Operations: `math`
+- File Handling: `io`
+- Web Requests: `requests`, `js`
+- Package Management: `piplite`
 
 ## Process
 **Data Collection with API**
